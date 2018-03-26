@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: white;
+	border: 3px dotted gold;
+}
+
+header {
+	border-bottom: 2px solid black;
+}
+
+body {					/*Styles for the body section*/
+  font-size: 150%;
+  background-color: #541406;	/* Background color Dark Red */
+	width: 90%;
+	margin: auto;
+	padding:6em;
+	border: 3px solid black;
+}
+
+main {					/* Styles for the main section*/
+	width: 60%;
+	padding: 1em;
+	border: 2px solid black;
+	background-color: white;
+	flaot: Left;
+}
+#Address a:hover, a:focus {
+  color: gold;
+}
+
+#unlisted a:hover, a:focus {
+  color: gold;
+}
+
+#unlisted {
+  list-style-type: none;
+}
+
+#owl {
+width:20%;
+float: right;
+padding-right: 1em;
+
+}
+
+
+
+main {
+  font-size: 100%;
+}
